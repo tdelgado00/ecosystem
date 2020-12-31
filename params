@@ -1,0 +1,5 @@
+width: 50
+height: 25
+initial_rabbits: 0
+initial_lions: 0
+initial_humans: 40
